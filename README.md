@@ -2,6 +2,8 @@
 
 Clone this git in your ~/bin folder
 
+the executable name is `g++_` it is actually a symlink
+
 # Infos
 
 Compiled with
