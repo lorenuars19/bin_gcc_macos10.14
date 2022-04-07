@@ -2,7 +2,7 @@
 
 Clone this git in your ~/bin folder
 
-the executable name is `g++_` it is actually a symlink
+the executable name is `g++_` which is actually a symlink
 
 # Infos
 
